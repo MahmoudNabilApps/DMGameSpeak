@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "updatedUtc": "2026-05-11T18:43:04.8265772Z",
+  "servers": [
+    {
+      "id": "fr231-tcp80",
+      "name": "",
+      "country": "France",
+      "countryCode": "fr",
+      "protocol": "tcp",
+      "port": 80,
+      "host": "5.196.64.231",
+      "riskLevel": "Warning",
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/fr/fr231-tcp80.ovpn",
+      "normalized": true,
+      "updatedUtc": "2026-05-11T18:43:04.5843394Z",
+      "cipher": "AES-256-GCM",
+      "auth": "SHA256"
+    }
+  ],
+  "metadata": {}
+}
