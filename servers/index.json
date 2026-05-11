@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedUtc": "2026-05-11T21:51:23.0576858Z",
+  "updatedUtc": "2026-05-11T23:25:13.0322406Z",
   "servers": [
     {
       "id": "ca149-tcp80",
@@ -13,7 +13,7 @@
       "riskLevel": "Warning",
       "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/ca/ca149-tcp80.ovpn",
       "normalized": true,
-      "updatedUtc": "2026-05-11T21:51:20.6890389Z",
+      "updatedUtc": "2026-05-11T23:25:10.3155166Z",
       "cipher": "AES-256-GCM",
       "auth": "SHA256"
     },
@@ -28,7 +28,7 @@
       "riskLevel": "Warning",
       "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/ca/ca196-tcp80.ovpn",
       "normalized": true,
-      "updatedUtc": "2026-05-11T21:51:19.5291513Z",
+      "updatedUtc": "2026-05-11T23:25:09.2167766Z",
       "cipher": "AES-256-GCM",
       "auth": "SHA256"
     },
@@ -43,7 +43,7 @@
       "riskLevel": "Warning",
       "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/de/de20-tcp80.ovpn",
       "normalized": true,
-      "updatedUtc": "2026-05-11T21:51:16.1891777Z",
+      "updatedUtc": "2026-05-11T23:25:05.8682140Z",
       "cipher": "AES-256-GCM",
       "auth": "SHA256"
     },
@@ -58,7 +58,7 @@
       "riskLevel": "Warning",
       "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/de/de220-tcp80.ovpn",
       "normalized": true,
-      "updatedUtc": "2026-05-11T21:51:14.9594675Z",
+      "updatedUtc": "2026-05-11T23:25:04.7083663Z",
       "cipher": "AES-256-GCM",
       "auth": "SHA256"
     },
@@ -73,7 +73,7 @@
       "riskLevel": "Warning",
       "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/fr/fr200-tcp80.ovpn",
       "normalized": true,
-      "updatedUtc": "2026-05-11T21:51:13.6866806Z",
+      "updatedUtc": "2026-05-11T23:25:03.4699757Z",
       "cipher": "AES-256-GCM",
       "auth": "SHA256"
     },
@@ -88,7 +88,7 @@
       "riskLevel": "Warning",
       "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/fr/fr231-tcp80.ovpn",
       "normalized": true,
-      "updatedUtc": "2026-05-11T21:51:12.4942314Z",
+      "updatedUtc": "2026-05-11T23:25:02.2755308Z",
       "cipher": "AES-256-GCM",
       "auth": "SHA256"
     },
@@ -103,7 +103,7 @@
       "riskLevel": "Warning",
       "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/uk/uk205-tcp80.ovpn",
       "normalized": true,
-      "updatedUtc": "2026-05-11T21:51:18.4306239Z",
+      "updatedUtc": "2026-05-11T23:25:08.0495170Z",
       "cipher": "AES-256-GCM",
       "auth": "SHA256"
     },
@@ -118,7 +118,7 @@
       "riskLevel": "Warning",
       "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/uk/uk68-tcp80.ovpn",
       "normalized": true,
-      "updatedUtc": "2026-05-11T21:51:17.3300381Z",
+      "updatedUtc": "2026-05-11T23:25:07.0214516Z",
       "cipher": "AES-256-GCM",
       "auth": "SHA256"
     },
@@ -133,7 +133,7 @@
       "riskLevel": "Warning",
       "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/us/us16-tcp80.ovpn",
       "normalized": true,
-      "updatedUtc": "2026-05-11T21:51:23.0553210Z",
+      "updatedUtc": "2026-05-11T23:25:12.7499574Z",
       "cipher": "AES-256-GCM",
       "auth": "SHA256"
     },
@@ -148,7 +148,7 @@
       "riskLevel": "Warning",
       "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/us/us178-tcp80.ovpn",
       "normalized": true,
-      "updatedUtc": "2026-05-11T21:51:21.9133418Z",
+      "updatedUtc": "2026-05-11T23:25:11.5387942Z",
       "cipher": "AES-256-GCM",
       "auth": "SHA256"
     }
