@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedUtc": "2026-05-11T23:25:13.0322406Z",
+  "updatedAt": "2026-05-12T22:30:00Z",
   "servers": [
     {
       "id": "ca149-tcp80",
@@ -9,13 +9,12 @@
       "countryCode": "ca",
       "protocol": "tcp",
       "port": 80,
-      "host": "144.217.253.149",
-      "riskLevel": "Warning",
-      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/ca/ca149-tcp80.ovpn",
-      "normalized": true,
-      "updatedUtc": "2026-05-11T23:25:10.3155166Z",
-      "cipher": "AES-256-GCM",
-      "auth": "SHA256"
+      "risk": "warning",
+      "online": true,
+      "ping": 95,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/ca/vpnbook-ca149-tcp80.ovpn",
+      "credentialVersion": 1,
+      "lastChecked": "2026-05-12T22:30:00Z"
     },
     {
       "id": "ca196-tcp80",
@@ -24,13 +23,26 @@
       "countryCode": "ca",
       "protocol": "tcp",
       "port": 80,
-      "host": "142.4.216.196",
-      "riskLevel": "Warning",
-      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/ca/ca196-tcp80.ovpn",
-      "normalized": true,
-      "updatedUtc": "2026-05-11T23:25:09.2167766Z",
-      "cipher": "AES-256-GCM",
-      "auth": "SHA256"
+      "risk": "warning",
+      "online": true,
+      "ping": 98,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/ca/vpnbook-ca196-tcp80.ovpn",
+      "credentialVersion": 1,
+      "lastChecked": "2026-05-12T22:30:00Z"
+    },
+    {
+      "id": "fr2311-tcp80",
+      "name": "France TCP 80",
+      "country": "France",
+      "countryCode": "fr",
+      "protocol": "tcp",
+      "port": 80,
+      "risk": "warning",
+      "online": true,
+      "ping": 82,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/fr/vpnbook-fr2311-tcp80.ovpn",
+      "credentialVersion": 1,
+      "lastChecked": "2026-05-12T22:30:00Z"
     },
     {
       "id": "de20-tcp80",
@@ -39,58 +51,12 @@
       "countryCode": "de",
       "protocol": "tcp",
       "port": 80,
-      "host": "51.75.145.20",
-      "riskLevel": "Warning",
-      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/de/de20-tcp80.ovpn",
-      "normalized": true,
-      "updatedUtc": "2026-05-11T23:25:05.8682140Z",
-      "cipher": "AES-256-GCM",
-      "auth": "SHA256"
-    },
-    {
-      "id": "de220-tcp80",
-      "name": "Germany TCP 80",
-      "country": "Germany",
-      "countryCode": "de",
-      "protocol": "tcp",
-      "port": 80,
-      "host": "51.75.145.220",
-      "riskLevel": "Warning",
-      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/de/de220-tcp80.ovpn",
-      "normalized": true,
-      "updatedUtc": "2026-05-11T23:25:04.7083663Z",
-      "cipher": "AES-256-GCM",
-      "auth": "SHA256"
-    },
-    {
-      "id": "fr200-tcp80",
-      "name": "France TCP 80",
-      "country": "France",
-      "countryCode": "fr",
-      "protocol": "tcp",
-      "port": 80,
-      "host": "5.196.64.200",
-      "riskLevel": "Warning",
-      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/fr/fr200-tcp80.ovpn",
-      "normalized": true,
-      "updatedUtc": "2026-05-11T23:25:03.4699757Z",
-      "cipher": "AES-256-GCM",
-      "auth": "SHA256"
-    },
-    {
-      "id": "fr231-tcp80",
-      "name": "France TCP 80",
-      "country": "France",
-      "countryCode": "fr",
-      "protocol": "tcp",
-      "port": 80,
-      "host": "5.196.64.231",
-      "riskLevel": "Warning",
-      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/fr/fr231-tcp80.ovpn",
-      "normalized": true,
-      "updatedUtc": "2026-05-11T23:25:02.2755308Z",
-      "cipher": "AES-256-GCM",
-      "auth": "SHA256"
+      "risk": "warning",
+      "online": true,
+      "ping": 88,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/de/vpnbook-de20-tcp80.ovpn",
+      "credentialVersion": 1,
+      "lastChecked": "2026-05-12T22:30:00Z"
     },
     {
       "id": "uk205-tcp80",
@@ -99,43 +65,12 @@
       "countryCode": "uk",
       "protocol": "tcp",
       "port": 80,
-      "host": "145.239.252.205",
-      "riskLevel": "Warning",
-      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/uk/uk205-tcp80.ovpn",
-      "normalized": true,
-      "updatedUtc": "2026-05-11T23:25:08.0495170Z",
-      "cipher": "AES-256-GCM",
-      "auth": "SHA256"
-    },
-    {
-      "id": "uk68-tcp80",
-      "name": "United Kingdom TCP 80",
-      "country": "United Kingdom",
-      "countryCode": "uk",
-      "protocol": "tcp",
-      "port": 80,
-      "host": "145.239.255.68",
-      "riskLevel": "Warning",
-      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/uk/uk68-tcp80.ovpn",
-      "normalized": true,
-      "updatedUtc": "2026-05-11T23:25:07.0214516Z",
-      "cipher": "AES-256-GCM",
-      "auth": "SHA256"
-    },
-    {
-      "id": "us16-tcp80",
-      "name": "United States TCP 80",
-      "country": "United States",
-      "countryCode": "us",
-      "protocol": "tcp",
-      "port": 80,
-      "host": "147.135.15.16",
-      "riskLevel": "Warning",
-      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/us/us16-tcp80.ovpn",
-      "normalized": true,
-      "updatedUtc": "2026-05-11T23:25:12.7499574Z",
-      "cipher": "AES-256-GCM",
-      "auth": "SHA256"
+      "risk": "warning",
+      "online": true,
+      "ping": 110,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/uk/vpnbook-uk205-tcp80.ovpn",
+      "credentialVersion": 1,
+      "lastChecked": "2026-05-12T22:30:00Z"
     },
     {
       "id": "us178-tcp80",
@@ -144,14 +79,12 @@
       "countryCode": "us",
       "protocol": "tcp",
       "port": 80,
-      "host": "147.135.37.178",
-      "riskLevel": "Warning",
-      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/us/us178-tcp80.ovpn",
-      "normalized": true,
-      "updatedUtc": "2026-05-11T23:25:11.5387942Z",
-      "cipher": "AES-256-GCM",
-      "auth": "SHA256"
+      "risk": "warning",
+      "online": true,
+      "ping": 145,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/us/vpnbook-us178-tcp80.ovpn",
+      "credentialVersion": 1,
+      "lastChecked": "2026-05-12T22:30:00Z"
     }
-  ],
-  "metadata": {}
+  ]
 }
