@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-14T03:58:09.8483883Z",
+  "servers": [
+    {
+      "id": "vpnbook-ca149-tcp443-tcp443",
+      "name": "CA TCP 443",
+      "countryCode": "ca",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-ca149-tcp443-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-ca149-tcp443",
+      "name": "CA TCP 443",
+      "countryCode": "ca",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-ca149-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-ca149-tcp80-tcp80",
+      "name": "CA TCP 80",
+      "countryCode": "ca",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-ca149-tcp80-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-ca196-tcp443-tcp443",
+      "name": "CA TCP 443",
+      "countryCode": "ca",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-ca196-tcp443-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-ca196-tcp443",
+      "name": "CA TCP 443",
+      "countryCode": "ca",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-ca196-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-ca149-tcp80",
+      "name": "CA TCP 80",
+      "countryCode": "ca",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-ca149-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-ca196-tcp80-tcp80",
+      "name": "CA TCP 80",
+      "countryCode": "ca",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-ca196-tcp80-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-ca196-tcp80",
+      "name": "CA TCP 80",
+      "countryCode": "ca",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-ca196-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-de20-tcp443",
+      "name": "DE TCP 443",
+      "countryCode": "de",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-de20-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-de20-tcp443-tcp443",
+      "name": "DE TCP 443",
+      "countryCode": "de",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-de20-tcp443-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-de20-tcp80-tcp80",
+      "name": "DE TCP 80",
+      "countryCode": "de",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-de20-tcp80-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-de20-tcp80",
+      "name": "DE TCP 80",
+      "countryCode": "de",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-de20-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-de220-tcp443-tcp443",
+      "name": "DE TCP 443",
+      "countryCode": "de",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-de220-tcp443-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-de220-tcp80-tcp80",
+      "name": "DE TCP 80",
+      "countryCode": "de",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-de220-tcp80-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-de220-tcp443",
+      "name": "DE TCP 443",
+      "countryCode": "de",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-de220-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-de220-tcp80",
+      "name": "DE TCP 80",
+      "countryCode": "de",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-de220-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-fr200-tcp443-tcp443",
+      "name": "FR TCP 443",
+      "countryCode": "fr",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-fr200-tcp443-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-fr200-tcp443",
+      "name": "FR TCP 443",
+      "countryCode": "fr",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-fr200-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-fr200-tcp80",
+      "name": "FR TCP 80",
+      "countryCode": "fr",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-fr200-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-fr2311-tcp443-tcp443",
+      "name": "FR TCP 443",
+      "countryCode": "fr",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-fr2311-tcp443-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-fr200-tcp80-tcp80",
+      "name": "FR TCP 80",
+      "countryCode": "fr",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-fr200-tcp80-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-fr2311-tcp443",
+      "name": "FR TCP 443",
+      "countryCode": "fr",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-fr2311-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-fr2311-tcp80-tcp80",
+      "name": "FR TCP 80",
+      "countryCode": "fr",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-fr2311-tcp80-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-fr2311-tcp80",
+      "name": "FR TCP 80",
+      "countryCode": "fr",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-fr2311-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-uk205-tcp443-tcp443",
+      "name": "GB TCP 443",
+      "countryCode": "gb",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-uk205-tcp443-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-uk205-tcp443",
+      "name": "GB TCP 443",
+      "countryCode": "gb",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-uk205-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-uk205-tcp80-tcp80",
+      "name": "GB TCP 80",
+      "countryCode": "gb",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-uk205-tcp80-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-uk205-tcp80",
+      "name": "GB TCP 80",
+      "countryCode": "gb",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-uk205-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-uk68-tcp443-tcp443",
+      "name": "GB TCP 443",
+      "countryCode": "gb",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-uk68-tcp443-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-uk68-tcp443",
+      "name": "GB TCP 443",
+      "countryCode": "gb",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-uk68-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-uk68-tcp80-tcp80",
+      "name": "GB TCP 80",
+      "countryCode": "gb",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-uk68-tcp80-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-uk68-tcp80",
+      "name": "GB TCP 80",
+      "countryCode": "gb",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-uk68-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-us16-tcp443",
+      "name": "US TCP 443",
+      "countryCode": "us",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-us16-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-us16-tcp80-tcp80",
+      "name": "US TCP 80",
+      "countryCode": "us",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-us16-tcp80-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-us16-tcp443-tcp443",
+      "name": "US TCP 443",
+      "countryCode": "us",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-us16-tcp443-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-us16-tcp80",
+      "name": "US TCP 80",
+      "countryCode": "us",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-us16-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-us178-tcp443",
+      "name": "US TCP 443",
+      "countryCode": "us",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-us178-tcp443.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-us178-tcp80-tcp80",
+      "name": "US TCP 80",
+      "countryCode": "us",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-us178-tcp80-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-us178-tcp80",
+      "name": "US TCP 80",
+      "countryCode": "us",
+      "protocol": "tcp",
+      "port": 80,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-us178-tcp80.ovpn",
+      "tags": []
+    },
+    {
+      "id": "vpnbook-us178-tcp443-tcp443",
+      "name": "US TCP 443",
+      "countryCode": "us",
+      "protocol": "tcp",
+      "port": 443,
+      "configUrl": "https://raw.githubusercontent.com/MahmoudNabilApps/DMGameSpeak/main/servers/vpnbook-us178-tcp443-tcp443.ovpn",
+      "tags": []
+    }
+  ]
+}
